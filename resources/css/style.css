@@ -1,0 +1,45 @@
+
+
+
+
+body{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.header{
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+.download{
+  color:Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.middleheader{
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+.middletext{
+  font-size: 21px;
+  color: Gray;
+}
+
+.comingsoon{
+  color: White;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.trademark{
+  color: gray;
+  text-align: right;
+}
